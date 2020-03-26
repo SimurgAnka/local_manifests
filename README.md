@@ -1,8 +1,8 @@
 # local_manifests
 Manifests 
 for 
-Building S6/S6 EDGE
-[Exynos7420]
+Building A5
+[Exynos7580]
  
 ===========
  
@@ -33,7 +33,7 @@ Now, move the device dirs to the respective dirs in ANDROID SOURCE DIR.
 ```
 (to the same dirs as in the DEVICE_TREE dirs)
  
-For eg : DEVICE_TREE/device/samsung/zero ~ ANDROID_SOURCE_DIR/device/samsung/a5xelte
+For eg : DEVICE_TREE/device/samsung/a5xelte ~ ANDROID_SOURCE_DIR/device/samsung/a5xelte
 ```
  
 OR 
