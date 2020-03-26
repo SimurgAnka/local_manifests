@@ -12,24 +12,15 @@
            fetch="https://gitlab.com" />
 	
     <!--Device Trees-->
-    <project path="device/samsung/zero-common" name="Exynos7420/android_device_samsung_zero-common" remote="github" revision="nx-10.0" />
-    <project path="device/samsung/universal7580-common" name="LineageOS/android_device_samsung_universal7580-common" remote="github" revision="lineage-17.1" />
-    <project path="device/samsung/a5xelte" name="LineageOS/android_device_samsung_a5xelte" remote="github" revision="lineage-17.1" />
-    <project path="device/samsung/zeroltexx" name="Exynos7420/android_device_samsung_zeroltexx" remote="github" revision="nx-10.0" />
+    <project path="device/samsung/universal7580-common" name="CesiumOS-Devices/android_device_samsung_universal7580-common" remote="github" revision="ten" />
+    <project path="device/samsung/a5xelte" name="CesiumOS-Devices/android_device_samsung_a5xelte" remote="github" revision="ten" />
  
     <!--Kernel-->
-    <project path="kernel/samsung/exynos7420" name="Exynos7420/android_kernel_samsung_exynos7420" remote="github" revision="nx-10.0" />
     <project path="kernel/samsung/universal7580" name="LineageOS/android_kernel_samsung_universal7580" remote="github" revision="lineage-17.1" />
-    <project path="prebuilts/linaro/linux-x86/aarch64/" name="enesuzun2002/android_prebuilts_linaro" groups="pdk,linux,x86_64" revision="6.1.1" remote="gitlabs" />
 
     <!-- Vendor folders -->
-    <project path="vendor/samsung/zero-common" name="Exynos7420/proprietary_vendor_samsung_zero-common" remote="github" revision="nx-10.0" />
+    <project path="vendor/samsung" name="TheMuppets/proprietary_vendor_samsung" remote="github" revision="lineage-17.1" />
 	
     <!-- Hardware -->
-    <project path="hardware/samsung" name="Exynos7420/android_hardware_samsung" remote="github" revision="nx-10.0" />
-    <project path="hardware/samsung_slsi-cm/exynos" name="Exynos7420/android_hardware_samsung_slsi-cm_exynos" remote="github" revision="nx-10.0" />
-    <project path="hardware/samsung_slsi-cm/exynos5" name="Exynos7420/android_hardware_samsung_slsi-cm_exynos5" remote="github" revision="nx-10.0" />
-    <project path="hardware/samsung_slsi-cm/exynos7420" name="Exynos7420/android_hardware_samsung_slsi-cm_exynos7420" remote="github" revision="nx-10.0" />
-    <project path="hardware/samsung_slsi-cm/openmax" name="Exynos7420/android_hardware_samsung_slsi-cm_openmax" remote="github" revision="nx-10.0" />
-	
+    <project path="hardware/samsung" name="LineageOS/android_hardware_samsung" remote="github" revision="lineage-17.1" />	
 </manifest>
