@@ -17,7 +17,7 @@
 
 	
     <!--Kernel-->
-    <project path="kernel/samsung/exynos7580" name="LineageOS/android_kernel_samsung_exynos7580" remote="github" revision="lineage-17.1" />
+    <project path="kernel/samsung/universal7580" name="LineageOS/android_kernel_samsung_universal7580" remote="github" revision="lineage-17.1" />
     
     <!-- Vendor folders -->
     <project path="vendor/samsung" name="TheMuppets/proprietary_vendor_samsung" remote="github" revision="lineage-17.1" />
