@@ -1,8 +1,8 @@
 # local_manifests
 Manifests 
 for 
-Building A5
-[Exynos7580]
+Building S6 EDGE
+[Exynos7420]
  
 ===========
  
