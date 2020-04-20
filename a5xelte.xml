@@ -14,7 +14,7 @@
       <!--Device Trees-->
      <project path="device/samsung/universal7580-common" name="SimurgAnka/android_device_samsung_universal7580-common" remote="github" revision="lineage-17.1" />
      <project path="device/samsung/a5xelte" name="SimurgAnka/android_device_samsung_a5xelte" remote="github" revision="lineage-17.1" />
-
+     <project path="device/samsung/a3xelte" name="SimurgAnka/android_device_samsung_a3xelte" remote="github" revision="lineage-17.1" />
 	
     <!--Kernel-->
     <project path="kernel/samsung/universal7580" name="LineageOS/android_kernel_samsung_universal7580" remote="github" revision="lineage-17.1" />
